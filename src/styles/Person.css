@@ -1,0 +1,15 @@
+td button {
+  padding: 5px 8px;
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  transition: 0.2s;
+  margin-left: 12px;
+}
+
+td button:hover{
+background-color: #FF866E;
+box-shadow: 2px 1px 28px -7px rgba(0,0,0,0.75);
+}
